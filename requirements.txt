@@ -1,0 +1,3 @@
+opencv-python==4.10.0.82
+sounddevice==0.4.7
+numpy==1.26.4
